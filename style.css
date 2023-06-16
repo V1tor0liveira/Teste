@@ -1,0 +1,52 @@
+body{
+    font-family: 'Courier', monospace;
+    background: linear-gradient(to right,gray,white);    
+}
+img{
+    max-width:100%;
+}
+#logo{
+    width: 100%;
+    text-align:center;
+    display: inline-block;
+}
+#about{
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;    
+}
+#re-dois{
+    width:60%;
+    text-align:center;
+    display:inline-block;
+}
+#about-re-dois{
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+}
+#re-quatro{
+    width:60%;
+    text-align:center;
+    display:inline-block;
+}
+#about-re-quatro{
+    font-size:40px;
+    text-align:center;
+    font-weight:bold;
+}
+#re-seis{
+    width:60%;
+    text-align:center;
+    display:inline-block;
+}
+#about-re-seis{
+    font-size:40px;
+    text-align:center;
+    font-weight:bold;
+}
+#experiencias{
+    font-size:40px;
+    text-align:center;
+    font-weight:bold;
+}
